@@ -1,4 +1,6 @@
 # Bash basics
 
-# Printing to terminal
-# Variables
+<ul>
+    <li>Printing to terminal</li>
+    <li>Variables</li>
+</ul>
