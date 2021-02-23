@@ -1,3 +1,4 @@
+#!/bin/bash
 VAR_X=5 #no space after =
 another_var=10
 string_var=ABCD
@@ -16,3 +17,6 @@ echo 'My name is $name'
 
 echo "My name is ${name}"
 #My name is Pratik  K  Tiwari
+
+FILE_LIST=`ls`
+echo $FILE_LIST
