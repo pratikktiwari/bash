@@ -6,4 +6,5 @@
     <li>Array</li>
     <li>Operators</li>
     <li>Strings</li>
+    <li>Conditionals</li>
 </ul>
