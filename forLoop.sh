@@ -19,19 +19,28 @@ done
 #4) Orange
 #5) Guava    
 
+#=============================================
+
 #For loop numeric range
 N=4
 for i in {1..5};do
     echo $i
 done
+
+#=============================================
+
 #For loop increment 2 each time
 for i in {0..10..2};do
     echo $i
 done
+
+#=============================================
+
 #Original for loop
 for (( c=1; c<=5; c++ ));do
     echo "Times: $c"
 done
+
 #=============================================
 
 #Print pattern
